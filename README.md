@@ -1,4 +1,5 @@
-# Dreams-invest
+# DREAMS-CONSULTING
+
 👋 Olá! Eu sou Monalisa Batista Mota de Souza
 Sou formada em Administração e tenho MBA em Marketing Estratégico com foco em Marketing Digital. Tenho um perfil analítico, organizado e orientado à qualidade, com grande interesse pela aplicação da Inteligência Artificial, análise de dados e ferramentas digitais na gestão e automação de processos.
 
